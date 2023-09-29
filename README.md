@@ -154,11 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=MichiCaballero07/holbertonschool-higher_level_programming) Michel Caballero Granado - <a href="https://github.com/MichiCaballero07" target="_blank"> @MichiCaballero07</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MichiCaballero07&show_icons=true)
 
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+
